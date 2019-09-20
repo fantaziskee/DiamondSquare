@@ -1,0 +1,2 @@
+# DiamondSquare
+Diamond Square algo
